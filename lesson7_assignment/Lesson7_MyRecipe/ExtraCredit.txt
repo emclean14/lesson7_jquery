@@ -1,0 +1,1 @@
+I added animation features, changed the colors, and performed a DOM transveral.
